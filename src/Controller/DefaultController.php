@@ -18,4 +18,14 @@ class DefaultController extends Controller
     {
         return $this->render('default/index.html.twig', ['name' => 'world']);
     }
+
+    /**
+     * @Route("/pluralization/{quantity}", defaults={"quantity" = 0}, name="pluralization")
+     * @param $quantity
+     * @return \Symfony\Component\HttpFoundation\Response
+     */
+    public function pluralizationAction($quantity)
+    {
+        return $this->render('default/pluralization.html.twig', ['quantity' => $quantity]);
+    }
 }
