@@ -98,9 +98,6 @@
     "symfony/http-kernel": {
         "version": "v3.3.10"
     },
-    "symfony/polyfill-apcu": {
-        "version": "v1.6.0"
-    },
     "symfony/polyfill-mbstring": {
         "version": "v1.6.0"
     },
@@ -112,9 +109,6 @@
             "version": "3.3",
             "ref": "5b2f0ee78c90d671860ac6450e37dec10fbc0719"
         }
-    },
-    "symfony/stopwatch": {
-        "version": "v3.3.10"
     },
     "symfony/translation": {
         "version": "3.3",
