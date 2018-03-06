@@ -739,7 +739,7 @@
         },
         {
             "name": "symfony/class-loader",
-            "version": "v3.4.5",
+            "version": "v3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/class-loader.git",
