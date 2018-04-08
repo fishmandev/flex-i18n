@@ -1214,16 +1214,16 @@
         },
         {
             "name": "symfony/framework-bundle",
-            "version": "v3.4.7",
+            "version": "v3.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/framework-bundle.git",
-                "reference": "027b8c832434bc615d1faa6e4dae0f413ff04932"
+                "reference": "ab19033db282fd56be8f4c444c1d07b11999fc48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/framework-bundle/zipball/027b8c832434bc615d1faa6e4dae0f413ff04932",
-                "reference": "027b8c832434bc615d1faa6e4dae0f413ff04932",
+                "url": "https://api.github.com/repos/symfony/framework-bundle/zipball/ab19033db282fd56be8f4c444c1d07b11999fc48",
+                "reference": "ab19033db282fd56be8f4c444c1d07b11999fc48",
                 "shasum": ""
             },
             "require": {
@@ -1325,7 +1325,7 @@
             ],
             "description": "Symfony FrameworkBundle",
             "homepage": "https://symfony.com",
-            "time": "2018-04-02T09:38:44+00:00"
+            "time": "2018-04-04T17:20:26+00:00"
         },
         {
             "name": "symfony/http-foundation",
