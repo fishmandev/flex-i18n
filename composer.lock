@@ -1763,16 +1763,16 @@
         },
         {
             "name": "symfony/twig-bundle",
-            "version": "v3.4.8",
+            "version": "v3.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/twig-bundle.git",
-                "reference": "c06e47e4b93500c1e6dbf9a29d10f88845d7958c"
+                "reference": "75bf72a2579f18d2865b40d1dcbb3f59bf217554"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/twig-bundle/zipball/c06e47e4b93500c1e6dbf9a29d10f88845d7958c",
-                "reference": "c06e47e4b93500c1e6dbf9a29d10f88845d7958c",
+                "url": "https://api.github.com/repos/symfony/twig-bundle/zipball/75bf72a2579f18d2865b40d1dcbb3f59bf217554",
+                "reference": "75bf72a2579f18d2865b40d1dcbb3f59bf217554",
                 "shasum": ""
             },
             "require": {
@@ -1832,7 +1832,7 @@
             ],
             "description": "Symfony TwigBundle",
             "homepage": "https://symfony.com",
-            "time": "2018-02-14T12:23:44+00:00"
+            "time": "2018-04-19T08:26:28+00:00"
         },
         {
             "name": "symfony/yaml",
